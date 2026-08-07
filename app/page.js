@@ -6,9 +6,14 @@ import Work from "./components/Work";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import React, { useState, useEffect } from "react";
+import { wakeUpServices } from "./utils/pingServices";
 
 export default function Home() {
   const [darkMode, setDarkMode] = React.useState(false);
+
+  useEffect(() => {
+    wakeUpServices();
+  }, []);
 
   useEffect(() => {
     if (
