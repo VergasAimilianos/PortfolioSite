@@ -11,7 +11,7 @@ const Work = ({ darkMode, setDarkMode }) => {
       <h2 className="text-center text-5xl font-ovo">My Latest Projects</h2>
 
       <p className="text-center max-w-2xl mx-auto mt-5 mb-12 font-ovo">
-        Here are some of my recent projects. Feel free to explore!
+        Feel free to explore!
       </p>
 
       <div className="grid grid-cols-auto my-10 gap-5 dark:text-black">
