@@ -2,7 +2,7 @@
 
 Personal portfolio website for **Aimilianos Vergas** — a backend/full-stack developer based in Ioannina, Greece. Built with Next.js and Tailwind CSS, it showcases an about section, skills, and featured projects, with light/dark mode support.
 
-**Repo:** [VergasAimilianos/PortfolioSite](https://github.com/VergasAimilianos/PortfolioSite)
+
 **Live:** deployed on [Render](https://portfoliosite-i1bq.onrender.com/)
 
 ## Features
